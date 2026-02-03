@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Diya Renjan",
+    "section": "",
+    "text": "I am a third-year undergraduate student at the University of Waterloo, majoring in Psychology with a minor in Addictions, Mental Health and Policy."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Diya Renjan",
+    "section": "",
+    "text": "I am a third-year undergraduate student at the University of Waterloo, majoring in Psychology with a minor in Addictions, Mental Health and Policy."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Diya Renjan",
+    "section": "Research Interests",
+    "text": "Research Interests\nI am interested in cogntive psychology and cognitive neuroscience. I am currently a research assistant in the Face Processing & Social Cognition Lab, where I help run an EEG study on the effects of facial expression intensity on neural responses."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Diya Renjan",
+    "section": "Contact",
+    "text": "Contact\nEmail: drenjan@uwaterloo.ca GitHub: https://github.com/DiyaRenjan"
+  }
+]

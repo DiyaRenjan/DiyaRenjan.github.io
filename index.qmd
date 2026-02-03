@@ -1,0 +1,16 @@
+---
+title: "Diya Renjan"
+---
+
+## About
+
+I am a third-year undergraduate student at the University of Waterloo, majoring in Psychology with a minor in Addictions, Mental Health and Policy.
+
+## Research Interests
+
+I am interested in cogntive psychology and cognitive neuroscience. I am currently a research assistant in the Face Processing & Social Cognition Lab, where I help run an EEG study on the effects of facial expression intensity on neural responses.
+
+## Contact
+
+Email: drenjan@uwaterloo.ca
+GitHub: https://github.com/DiyaRenjan
